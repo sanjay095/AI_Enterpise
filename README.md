@@ -29,7 +29,7 @@ git checkout -b feature-branch
 
 python New.py
 
-git add New.py
+git add Hello.py
 
 git commit -m "Add example Python script to feature branch"
 
